@@ -1,0 +1,15 @@
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/obj/Debug/net8.0/dz_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/obj/Debug/net8.0/dz_01.AssemblyInfoInputs.cache
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/obj/Debug/net8.0/dz_01.AssemblyInfo.cs
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/obj/Debug/net8.0/dz_01.csproj.CoreCompileInputs.cache
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/obj/Debug/net8.0/dz_01.sourcelink.json
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/bin/Debug/net8.0/dz_01
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/bin/Debug/net8.0/dz_01.deps.json
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/bin/Debug/net8.0/dz_01.runtimeconfig.json
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/bin/Debug/net8.0/dz_01.dll
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/bin/Debug/net8.0/dz_01.pdb
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/obj/Debug/net8.0/dz_01.dll
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/obj/Debug/net8.0/refint/dz_01.dll
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/obj/Debug/net8.0/dz_01.pdb
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/obj/Debug/net8.0/dz_01.genruntimeconfig.cache
+/Users/azkarpenko/GIT_CSHARP/seminar02/dz_01/obj/Debug/net8.0/ref/dz_01.dll
