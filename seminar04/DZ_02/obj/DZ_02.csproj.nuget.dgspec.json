@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/azkarpenko/GIT_CSHARP/seminar04/DZ_02/DZ_02.csproj": {}
+    "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\seminar04\\DZ_02\\DZ_02.csproj": {}
   },
   "projects": {
-    "/Users/azkarpenko/GIT_CSHARP/seminar04/DZ_02/DZ_02.csproj": {
+    "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\seminar04\\DZ_02\\DZ_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/azkarpenko/GIT_CSHARP/seminar04/DZ_02/DZ_02.csproj",
+        "projectUniqueName": "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\seminar04\\DZ_02\\DZ_02.csproj",
         "projectName": "DZ_02",
-        "projectPath": "/Users/azkarpenko/GIT_CSHARP/seminar04/DZ_02/DZ_02.csproj",
-        "packagesPath": "/Users/azkarpenko/.nuget/packages/",
-        "outputPath": "/Users/azkarpenko/GIT_CSHARP/seminar04/DZ_02/obj/",
+        "projectPath": "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\seminar04\\DZ_02\\DZ_02.csproj",
+        "packagesPath": "C:\\Users\\karar\\.nuget\\packages\\",
+        "outputPath": "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\seminar04\\DZ_02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/azkarpenko/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\karar\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,3 +13,17 @@
 /Users/azkarpenko/GIT_CSHARP/lesson01/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
 /Users/azkarpenko/GIT_CSHARP/lesson01/Task1/obj/Debug/net8.0/ref/Task1.dll
 /Users/azkarpenko/GIT_CSHARP/lesson01/Task1/obj/Debug/net8.0/Task1.sourcelink.json
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\bin\Debug\net8.0\Task1.exe
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\bin\Debug\net8.0\Task1.dll
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\bin\Debug\net8.0\Task1.pdb
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\obj\Debug\net8.0\Task1.dll
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\obj\Debug\net8.0\Task1.pdb
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson01\Task1\obj\Debug\net8.0\ref\Task1.dll

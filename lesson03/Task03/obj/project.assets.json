@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/azkarpenko/.nuget/packages/": {}
+    "C:\\Users\\karar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/azkarpenko/GIT_CSHARP/lesson03/Task03/Task03.csproj",
+      "projectUniqueName": "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\lesson03\\Task03\\Task03.csproj",
       "projectName": "Task03",
-      "projectPath": "/Users/azkarpenko/GIT_CSHARP/lesson03/Task03/Task03.csproj",
-      "packagesPath": "/Users/azkarpenko/.nuget/packages/",
-      "outputPath": "/Users/azkarpenko/GIT_CSHARP/lesson03/Task03/obj/",
+      "projectPath": "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\lesson03\\Task03\\Task03.csproj",
+      "packagesPath": "C:\\Users\\karar\\.nuget\\packages\\",
+      "outputPath": "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\lesson03\\Task03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/azkarpenko/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\karar\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
