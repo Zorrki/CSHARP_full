@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\lesson01\\Task1\\Task1.csproj": {}
+    "/Users/azkarpenko/GIT_CSHARP/lesson01/Task1/Task1.csproj": {}
   },
   "projects": {
-    "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\lesson01\\Task1\\Task1.csproj": {
+    "/Users/azkarpenko/GIT_CSHARP/lesson01/Task1/Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\lesson01\\Task1\\Task1.csproj",
+        "projectUniqueName": "/Users/azkarpenko/GIT_CSHARP/lesson01/Task1/Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\lesson01\\Task1\\Task1.csproj",
-        "packagesPath": "C:\\Users\\karar\\.nuget\\packages\\",
-        "outputPath": "D:\\Docs\\YandexDisk\\Private\\PC\\Main docs\\GeekBrains\\GB_GIT\\lesson01\\Task1\\obj\\",
+        "projectPath": "/Users/azkarpenko/GIT_CSHARP/lesson01/Task1/Task1.csproj",
+        "packagesPath": "/Users/azkarpenko/.nuget/packages/",
+        "outputPath": "/Users/azkarpenko/GIT_CSHARP/lesson01/Task1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\karar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/azkarpenko/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
