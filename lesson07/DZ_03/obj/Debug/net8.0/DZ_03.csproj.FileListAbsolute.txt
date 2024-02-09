@@ -1,0 +1,14 @@
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\bin\Debug\net8.0\DZ_03.exe
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\bin\Debug\net8.0\DZ_03.deps.json
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\bin\Debug\net8.0\DZ_03.runtimeconfig.json
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\bin\Debug\net8.0\DZ_03.dll
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\bin\Debug\net8.0\DZ_03.pdb
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\obj\Debug\net8.0\DZ_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\obj\Debug\net8.0\DZ_03.AssemblyInfoInputs.cache
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\obj\Debug\net8.0\DZ_03.AssemblyInfo.cs
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\obj\Debug\net8.0\DZ_03.csproj.CoreCompileInputs.cache
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\obj\Debug\net8.0\DZ_03.dll
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\obj\Debug\net8.0\refint\DZ_03.dll
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\obj\Debug\net8.0\DZ_03.pdb
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\obj\Debug\net8.0\DZ_03.genruntimeconfig.cache
+D:\Docs\YandexDisk\Private\PC\Main docs\GeekBrains\GB_GIT\lesson07\DZ_03\obj\Debug\net8.0\ref\DZ_03.dll
